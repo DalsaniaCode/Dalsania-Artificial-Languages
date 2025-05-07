@@ -1,9 +1,16 @@
 body {
-    background-color: #14368e;
+    background-color: #2160a0;
 }
 
 h1 {
     text-align: center;
     color: #ffffff;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+p {
+    text-align: left;
+    color: #c0d5ff;
     font-family: Arial;
 }
