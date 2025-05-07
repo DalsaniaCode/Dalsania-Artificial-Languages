@@ -1,0 +1,60 @@
+Focus on a topic - FOAT
+Qubikus translation - QBKS
+Automatic translation on empty word - ATEW
+Put identifier before the word - PIBW //Used for not confuse some word with other//
+Put identifier after the word - PIAW
+
+
+
+
+1 - (Mention)
+
+    "The, This, That" (FOAT) - QBKS: "Vì"
+    3:6-4.2.5, 3:8-4.2.5, 2:3-5.1, 3:8-5.2.4, 2:3-4.3, 3:6-4.2.5 | 03 01 03 01, 00 00 00 00, 03 01 03 01 | 1100 1100
+
+    "An" (Non-FOAT) ATEW
+
+
+2 - (Pronouns)
+
+3 - (Classification)
+
+    "Object" ATEW
+
+    "Animal" PIBW - QBKS: "Kǎ"
+
+    "Person Name" PIBW - QBKS: "Gɵ̌r"
+
+    "Cantity" PIBW - QBKS: "Jěs"
+
+    "Direction" PIBW - QBKS: "Lǎd"
+
+    "Geometry Figure" PIBW - QBKS: "Nɑ̌k"
+
+
+4 - (Cantity)
+
+5 - (Direction)
+
+6 - (Logic)
+
+    "Yes" - QBKS: "Há"
+
+    "No" - QBKS: "Tíen"
+
+    "Maybe" - QBKS: "Lɵ́k"
+
+    "Reality" - PIAW - QBKS: "Beum"
+
+    "Works, Lives" - PIAW - QBKS: "Cháp"
+
+7 - (Geometry)
+
+    "Bidimensional" - QBKS: "Chòd"
+    1:1.1, 2:3-8.3, 1:1.1, 2:3-8.3, 1:1.1, 1:1.1 | 01 01 01 01, 01 01 01 01, 01 01 01 01 | 0000 0000
+
+    "Tridimensional" - QBKS: "Jɵ̀d"
+    2:3-7.3, 2:3-8.3, 2:3-4.3, 2:3-8.3, 2:3-4.3, 2:3-7.3 | 01 01 01 01, 01 01 01 01, 01 01 01 01 | 0000 0000
+
+        "Cube, Square" - QBKS: "Per"
+        3:9-4.2.1, 3:9-4.2.1, 3:9-4.2.1, 3:9-4.2.1, 3:9-4.2.1, 3:9-4.2.1 | 01 01 01 01, 01 01 01 01, 01 01 01 01 | 0000 0000

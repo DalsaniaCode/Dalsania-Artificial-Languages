@@ -1,0 +1,303 @@
+This was made in October 25 of 2025 (25 - 10 - 2025) after this launch.
+
+
+Neo astral Language principal configurations:
+This is made by a Dream ambient language. SOV order.
+Auncehüak Lëorpta script, Abugida system. ALT: Latin, Cyrillic and Devanagari.
+
+Symbols:
+  ' - Indicates that is pronounced with a short vowel.
+  " - A special high vocal. Is the same and it's pronounced as the acute sign, but puts this instead of this symbol cause of Unicode characters.
+  N - This word is new and replaced by the original, because the creator get a alternative and scraped the original form or that word always is not added.
+  F - Always in the dictionary, but replaced or modified for a better reference
+  2 - Word remembered, but with lil modifications.
+  Z - The word had be replaced or modified cause of a pronunciation difficult.
+  E - Example is easy if this is deleted.
+  G - This word existed in a Old dictionary, but with a giant modification for evolution.
+  (Dash) - Indicates a translating for know info of that:
+  
+// The u with a ring was used in the old latinized Neo-astral, but now is replaced by the w for not have too many special characters.
+
+
+<---[ Real words section down bellow of this safe Dictionary ]--->
+{The mayority of words can will end with a short vocal, but There is especified cause feww words doesn't end with the short vowel.
+
+
+Grettings:
+   Hello - Hæláivë'
+N  How are you - Pane'nkaþáeha'
+E  I'm fine - Logaw hainsanþ
+E  I'm not fine - Logaw sanþain
+   Goodbye, Bye - śevü"
+   Thanks - Layehaváæra'
+   Please -  Yïndenáka'
+   Sorry - Śefalæ"ħa'
+E  Good morning - Hainsanþ þelvïnofárdi'
+E  Good afternoon - Hainsanþ Þelvïnofárdal
+E  Good evening, Good night - Hainsanþ Þelvïnofü"rdi'
+   
+Logic:
+   {The following words are ordering with most common word in this same language}
+   Yes - Yat, Yact, Yast
+   No, not, nope - Nü, Nül [80%], Nüt [52%]
+N  Mabye - Cë, Cëħ
+   ||
+   {The words are simplified to end with "is" because before of the modification ends with "ïs"}
+Z  And - Ílis
+Z  Or - Ö"lis
+(2024 -> 2025)
+N  With -> Sabrë
+N  Without -> Sabrënü'
+   
+Pronouns:
+   I - Low
+   You - Leï
+F  He - Lin
+F  She - Lian
+F  It - Lïl
+   We - Luvtow
+   You (Mul) - Luvteï
+F  They (Only M) - Luvin
+F  They (Only W) - Luvian
+F  They (Both Genders) - Luvak  [Common]
+   ||
+   {the following words are the same as the before, just need to change with "Þ"}
+   It - Þunïl  [Rare]
+   Our {Nuestro en español} - Þuvin
+   Your (Mul) - Þuviteï
+   ||
+   I'm, I am - Logaw
+   
+To ___ (SAC):
+   Can - Serfág
+N  Can't, Can not - Serfágnü'
+N  Have, Has, Was - Lïvsáto
+N  Haven't, Have not, Hasn't, Has not, Wasn't, Was not - Lïvsátornü'
+N  Could - Barme'ngacéit
+N  Could not - Berme'ngacéitnü'
+N  Would - Þanose'nðávu
+N  Wouldn't, Would not - Þanose'nðávunü'
+F  Am, Are, Is, be - gaw (Before was law, but was replaced to gaw for have reference to: "I am")
+N  Am not, aren't, isn't - gawnü'
+(2025 down)
+N  Will - Nas
+N  Will not - Nasiu'
+N  Should - Dinas
+N  Shouldn't, Should not - Dinasnü'
+
+Mentions:
+   The - Aśte
+   A, an, one - Ugöye
+   This - Eħáelvü'
+   That - Eħáelva'
+   These - Mæneħáelvü'
+   Those - Mæneħáelva'
+N  of - daldæ
+   
+Questions:
+G  What? - Nata? Nat
+G  Why - Nadi? Inad
+G  How? - Næsou? Sotnæs
+   Who? - Noðï? Anod
+   When? - Öpial? Utanöp
+   Where? - Noyu? Noyu
+
+Pfx:
+   Pre, Paleo -> Tembin-
+   Neo -> Nóůvæ
+   Pluri, Multi, Poly, Pan -> Kóyuën-
+   Un, in (Sometimes) -> Noüher-
+   Hetero -> Kantayevül-
+   Homo -> Kantayeval-
+N  Auto -> ugo
+
+Sfx:
+   ly -> -bleiaśt
+2  less -> -nük
+   ism -> -sát
+   ist -> -sáti
+   s, es, wes {multiple} -> Sæo-
+N  thing -> -tus
+N  one -> -uge'
+N  self -> ugo
+
+Number:
+N  (1) One -> Ugöye
+N  (2) Two -> Gopleru'
+N  (3) Three -> Ħarupeni'n
+N  (4) Four -> Vadśapöte'
+N  (5) Five -> Kuetuplacu
+N  (6) Six -> Lïedikogo
+N  (7) Seven -> Ganlëpubæ
+N  (8) Eight -> Nëpösmava
+N  (9) Nine -> Titrien
+       ||
+N  (10) Ten -> Gïontipatu'
+N  (100) Hundred -> Atasilén
+
+
+* * [Simple words start here bellow of this big advertising] * *
+
+Lexicon and all simple words of the Neo-astral language:
+   Short, Little, Small, Tiny - Nugáevü'
+   Long, Large, Big, Giant - Nugáeva'
+   Space (A simple distance) - Cúya'rt
+N  Sky - Þelvïnóurtak
+N  Sun, Star - Lu'llayüdárpta'
+N  Moon, Satellite - Gingiħápta'
+N  Bright, Ligth, Shinny {Any word refering to something that has much luminosity} - Farfleśï'sát
+N  Shadow, Dark - Fürfleśï'sát
+N  Morning - Þelvïnofü"rdal
+N  Day - Þelvïnofárdi'
+N  Afternoon - Þelvïnofárdal
+N  Night - Þelvïnofü"rdi'
+   Good, Fine, Ok, Impressive - hainsanþ
+   Bad - sanþain
+   Before - Yushrevü
+N  After - Yudhicva
+   Cat, Kitty - Purette'
+   Dog - Galfette'
+2  Horse - Huroyette'
+F  Fox - Heliavette'
+Z  Element, Object, Thing, Mattery - Musadï
+   Dance - Bofenaïca
+   Because - Klénvor
+Z  All, Any - Ölkevisus
+   Air - Fochaħa
+   Earth - Lórit
+Z  Fire - Brinkfæ'hða
+   Water - Hagelüva
+   Word - Leoþénsia
+N  God - Śallah (Please, this word only used in religious traductions. Don't use this word if you are not safe what will happen on your dreams.)
+   Happy, Enjoy - Yoveflova
+   Iron, [Fe] - Þormalékta
+   Gender - Gerðael
+N  Sex (orientation), -Sexual - Gyonsíkcu'
+N  Sex (reproduction) - Gyornö
+F  Is in - Gavat
+N  Different - Kantáyevü'
+N  Same - Kantáyeva'
+N  Nationality, Country, Kingdom - Þorma'davlukéśa
+N  Sound - Lívlia
+N  Song - Lívliaśav
+N  Rythm - Ragiśavec
+| 2024 -> 2025
+N  Eye -> Dakat
+N  Terror, Horror -> Pagin
+N  As -> Dirgam
+N  Letter -> Tïrgam
+N  Eye -> Śilepat
+N  (Group Separation only if there's an asymetric cantity of persons) -> Ou
+G  Person, Guy -> Śilatpëin
+N  Rule, Law -> Ottiper
+G  King, Queen -> Cibïtu'nottu
+F  Asnalitean -> Sorgeðilapël
+N  Cute, Beautiful -> Losüre'
+N  Ugly -> Celickopit
+G  Time, While -> Sënet
+N  Every -> Nakevisus
+N  English -> Inglo, Inglos
+N  Classification, Variation, Tag -> Dusolïmana
+N  Sure -> Prolokus
+G  For, About -> Nekali
+G  To -> porśe
+N  Acess, Way, Door -> Temurï
+G  Life -> Söklef
+N  Plant, Vegetal -> lefilorit
+N  Tree -> Sënelefilorit
+G  Now, Yet, Today, Present -> Yunát
+N  Art -> Keriu
+N  if -> Śia
+N  Happen -> Ħoraïsu'
+N  Happened -> Ħoraïsal
+N  Parent, Mother, Father, Mom, Dad -> Gopleśilati'
+N  Grandmother, Grandfather, Grandma, Grandpha -> Ħaruśilati'
+N  Territory -> Cibulórit
+N  Home, House, Den -> Kogesinalam
+N  Room, Habitation -> Nálamw
+N  Predator, Attacker, Aggressor, Warrior -> Cibuśivalerïa
+N  Warning -> Drasalï
+N  Caution -> Dresalï
+N  Brother, Sister, Sibling -> Dekaśilati'
+N  Fur -> Asul
+N  Animal -> Śilagette'
+N  In -> Vat
+N  Out -> Vën
+NE Is out -> Gavën
+N  Here -> Vilenï
+N  Worry, Dude -> Andikar
+G  Never, Never ever -> Nüges
+G  Forever, Always, Ever -> Yatöl
+N  Almost -> Panan
+N  Already -> Pekaþanelï
+N  Man, Male, Boy -> Śilingut
+N  Woman, Female, Girl -> Śiliangut
+E  Child, Son, Daughter, Underage -> Nugáevü' Śilatpëin
+N  Problem -> Taka
+N  Boobs, Tits -> Yianderuga
+N  Milk -> deruga
+N  Easy -> Dilani
+N  Hard (Difficult) -> Terani
+N  Soft -> Kodilani
+N  Hard (Strong) ("Duro" in spanish) -> Koterani
+N  Free -> Gïelápotes
+N  Freedom -> Śigïelápotes
+N  Chemistry -> Musadïalkine'
+N  Physics -> Tentribönrialkine'
+  ///
+  Verbs:
+     {Action: -et, -ewt 2+ | Past: ait, aivut | Future: ot, ovut}
+Z    Create, Make, Made - Ohö"lviśar
+     Jump - Bangar
+     Love - Ahëmïkcar
+     Kiss - Uśelakam
+     Hate - Makśoþainer
+     Run - Yaħar
+     Make - Ohölvenśalter
+     Need - Alunétürgar
+     Block - Lunśormeter
+     Belive - Ventán
+N    Put - Tekdawmésar
+     See, View, Saw, Watch, Look - Dakatam
+N    Buy - Tïrgamar
+N    Sell - Dirgamar
+(2025)
+N    Draw - Tuśkípam
+N    Fuck, Sexing, having sex - Gyornösem
+N    Collab, Collaborate - Sæocibam
+N    Add - Musëosúban
+N    Remove - Musëoþülgan
+G    Start - Subáriam
+G    End - Þülegoriam
+F    Back, Come back - Cibþulitam
+N    Wait - Sen
+N    Search, Want - Bendakatam
+N    Read - Benlioþen
+N    Open - Siatemur
+N    Close - Töltemur
+N    Like, Likes - Përnapian
+N    Born -> Ugösöklem
+N    Know, Learn, Understand -> Akilneober
+G    Think, Expect, Imagine -> Siguneober
+G    Remember -> Sisöneober
+N    Defend, Protect -> Śakanamer
+N    Attack, Hunt -> Śivaler
+N    Play (Dis.) -> Alevuar
+N    Play (Msc.) -> Faciobam
+N    Catch, Target, Get us -> Śivakan
+N    Sleep, Asleeep, Nap -> Sumerain
+N    Worry, Dude -> Andikar
+N    Scare, Fear, Jumpscare -> Śamekiron
+N    Come, Go -> Dodësar
+N    Explore, Discover -> Kugelmacer
+N    Suck -> Pëntocen
+N    Liberate -> Gielapor
+  |!|
+  Detaills:
+     Astral - Boulaváentre
+     Atomic - Tusleigśévüak
+     Cosmic - Auncehüák
+     Organic - Tuscafæðak
+     Social - SæoŚilatipus
+     Natural - Antolamak
+     Cultural, Non-natural, Artificial - Siltolamak

@@ -1,0 +1,84 @@
+How is the pronunciation based the Qubikus language?
+
+Well. What I can say for you about the qubikus language is because each cube has
+their own pronunciation, but the trouble start because can be interpreted as other
+cube, changing the meaning.
+
+
+Vocals (8):
+
+(SC) A - a natural
+(SC) Ä - a posterior
+(SC) E - e semiclosed
+     I - i natural
+     O - o natural
+     Ö - o central
+     Ü - u central
+     U - u natural
+     1 - r vocal
+It needs an ' before an syllabe with no PCo if the previous syllabe doesn't contain an FCo. 
+
+
+Legal Vocal Digrams (16):
+Ai
+Äi
+Ei
+
+Ao
+Au
+Aö
+Eo
+Eu
+
+Ia
+Ie
+Io
+Iö
+Iu
+
+Ua
+Ue
+Uo
+
+
+Principal Consonants (17~):
+
+B/P - Replaced with a "P"
+T/D - Replaced with a "T"
+S/Z - Replaced with a "S"
+K/G - Replaced with a "K" if SC and a "G" if QC
+M - NatCo
+N - NatCo
+R - Not french R
+Kh/Rh - Replaced with a "Kh" and french R
+F/V - Replaced with "F" if SC and a "V" if QC
+Bh - Vibrant B like an V but not totally as a V
+L - NatCo
+Tl - Nahua(tl) sound
+X - Chinese sonorus sh
+J - Yugoslavian "dj" sound
+H - (h)alf sound
+Ch - spanish ch sound
+Sh - argentinan spanish ll sound
+Y - Natural and soft "j" sound
+
+
+Final Consonants (8):
+
+N - Anunsvara example
+M - Candrabindoo example
+S - NFCo
+T/D - Replaced with "d"
+P/B - Replaced with "p"
+K/G - Replaced with "k"
+R - NFCo
+L - NFCo
+
+
+Tones (4):
+
+(   ) - Normal
+( ´ ) - High
+( ˆ ) - Ascendent
+( ` ) - Low
+( ˇ ) - Descent
