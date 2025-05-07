@@ -1,6 +1,6 @@
 In this file, there will be only SQL files in which will be talking about my Artificial languages in SQL.
 This SQL Files are ordered in the next order: "Templates" are txt files with the info saved.
 Languages is the main info and start. SQL files are in the right order and is the principal archives
-The file "Languages/Create/ example.sql" will be the root for create a new board for artificial languages.
+The file "Languages/Table/ example.sql" will be the root for create a new board for artificial languages.
 
 Thanks for read.
