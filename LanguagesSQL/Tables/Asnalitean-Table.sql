@@ -1,0 +1,5 @@
+CREATE TABLE Asnalitean (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    english VARCHAR(30) NOT NULL,
+    asnalitean VARCHAR(30) NOT NULL
+);
