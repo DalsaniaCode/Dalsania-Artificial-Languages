@@ -4,3 +4,18 @@ Languages is the main info and start. SQL files are in the right order and is th
 The file "Languages/Table/ example.sql" will be the root for create a new board for artificial languages.
 
 Thanks for read.
+
+
+It's necessary use the class for know which word is classificated like the next way:
+"000" or NULL : Is a normal Word mentioning everything
+"001" : A natural word, but refering to Kitchen
+"002" : A natural word, but refering to Psichology (Happy, Sad, Angry, Fear)
+"NUM" : Number
+"VER" : Is a verb
+"PRN" : Is a pronouns
+"MET" : Is a mention
+"DI1" : Is a direction
+"DI2" : Is a position
+"PRX" : Prefix
+"SFX" : Suffix
+"VSX" : Verbal suffix
