@@ -1,0 +1,5 @@
+CREATE TABLE Qubikus (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    english VARCHAR(30) NOT NULL,
+    qubikus VARCHAR(30) NOT NULL
+);
